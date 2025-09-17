@@ -10,8 +10,8 @@ I built and deployed a **personal resume website** using Amazon S3, CloudFront, 
 - **Amazon CloudFront** → CDN for global delivery + HTTPS support.  
 - **Amazon Route 53** → Custom domain (`yusufyucel.com`).  
 - **AWS Certificate Manager (ACM)** → Free SSL certificate.  
-
-![Architecture Diagram](diagram.png)
+## 🎨 Architecture
+![Architecture](diagram-website.png)
 
 ---
 ## ⚡ Steps I Followed
@@ -53,8 +53,6 @@ I built and deployed a **personal resume website** using Amazon S3, CloudFront, 
 
 ## 📸 Demo
 🌐 Live Website → [https://yusufyucel.com](https://yusufyucel.com)  
-## 🎨 Architecture
-![Architecture](diagram-website.png)
 
 
 ---
