@@ -52,7 +52,7 @@ I built and deployed a **personal resume website** using Amazon S3, CloudFront, 
 ---
 
 ## 📸 Demo
-🌐 Live Website → [https://yusufyucel.com](https://yusufyucel.com)  
+🌐 Live Website → [https://yusufyucel.com](https://yusufyucel.com) (not live anymore) 
 
 
 ---
